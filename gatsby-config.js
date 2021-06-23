@@ -2,9 +2,9 @@ const path = require('path')
 
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Fashion Portfolio Starter`,
-    description: `Beautiful portfolio for your fashion career.`,
-    author: `@shobhitchittora`,
+    title: `Free Britney Today!`,
+    description: `Free America's princess, Britney Spears.`,
+    author: `@technosheen`,
     menuLinks: [
       {
         name: 'Home',
@@ -34,7 +34,7 @@ module.exports = {
       },
       {
         name: 'gmail',
-        link: 'mailto:chittorashobhit@gmail.com'
+        link: 'mailto:sean@technosheen.com'
       }
     ]
   },
